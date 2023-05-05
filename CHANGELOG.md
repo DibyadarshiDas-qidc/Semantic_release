@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/DibyadarshiDas-qidc/Semantic_release/compare/v1.2.0...v1.3.0) (2023-05-05)
+
+
+### Features
+
+* **feat:** [R-100824] To check commit message ([d39cb45](https://github.com/DibyadarshiDas-qidc/Semantic_release/commit/d39cb456725b0881fee578725a80a7027f9c4be6))
+
 # [1.2.0](https://github.com/DibyadarshiDas-qidc/Semantic_release/compare/v1.1.1...v1.2.0) (2023-05-05)
 
 
