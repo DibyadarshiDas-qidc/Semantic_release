@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/DibyadarshiDas-qidc/Semantic_release/compare/v1.1.1...v1.2.0) (2023-05-05)
+
+
+### Features
+
+* **[R-100824]:** Updated yml file to check feature release ([6be5519](https://github.com/DibyadarshiDas-qidc/Semantic_release/commit/6be5519da3ed0c4b90907478d88de6c26cb067be))
+
 ## [1.1.1](https://github.com/DibyadarshiDas-qidc/Semantic_release/compare/v1.1.0...v1.1.1) (2023-05-05)
 
 
