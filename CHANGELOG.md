@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/DibyadarshiDas-qidc/Semantic_release/compare/v1.1.0...v1.1.1) (2023-05-05)
+
+
+### Bug Fixes
+
+* [R-100000] bug fix ([eeeade9](https://github.com/DibyadarshiDas-qidc/Semantic_release/commit/eeeade9688bbfb0e51237b52df19fced5d69e4db))
+
 # [1.1.0](https://github.com/DibyadarshiDas-qidc/Semantic_release/compare/v1.0.1...v1.1.0) (2023-05-05)
 
 
